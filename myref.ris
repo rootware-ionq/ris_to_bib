@@ -1,0 +1,40 @@
+TY  - JOUR
+AU  - Yang, Xiaodong
+AU  - Chen, Xi
+AU  - Li, Jun
+AU  - Peng, Xinhua
+AU  - Laflamme, Raymond
+PY  - 2021
+DA  - 2021/01/12
+TI  - Hybrid quantum-classical approach to enhanced quantum metrology
+JO  - Scientific Reports
+SP  - 672
+VL  - 11
+IS  - 1
+AB  - Quantum metrology plays a fundamental role in many scientific areas. However, the complexity of engineering entangled probes and the external noise raise technological barriers for realizing the expected precision of the to-be-estimated parameter with given resources. Here, we address this problem by introducing adjustable controls into the encoding process and then utilizing a hybrid quantum-classical approach to automatically optimize the controls online. Our scheme does not require any complex or intractable off-line design, and it can inherently correct certain unitary errors during the learning procedure. We also report the first experimental demonstration of this promising scheme for the task of finding optimal probes for frequency estimation on a nuclear magnetic resonance (NMR) processor. The proposed scheme paves the way to experimentally auto-search optimal protocol for improving the metrology precision.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-80070-1
+DO  - 10.1038/s41598-020-80070-1
+ID  - Yang2021
+ER  - 
+
+
+TY  - JOUR
+AU  - Yang, Xiaodong
+AU  - Chen, Xi
+AU  - Li, Jun
+AU  - Peng, Xinhua
+AU  - Laflamme, Raymond
+PY  - 2022
+DA  - 2021/01/12
+TI  - Hybrid quantum-classical approach to enhanced quantum metrology
+JO  - Scientific Reports
+SP  - 672
+VL  - 11
+IS  - 1
+AB  - Quantum metrology plays a fundamental role in many scientific areas. However, the complexity of engineering entangled probes and the external noise raise technological barriers for realizing the expected precision of the to-be-estimated parameter with given resources. Here, we address this problem by introducing adjustable controls into the encoding process and then utilizing a hybrid quantum-classical approach to automatically optimize the controls online. Our scheme does not require any complex or intractable off-line design, and it can inherently correct certain unitary errors during the learning procedure. We also report the first experimental demonstration of this promising scheme for the task of finding optimal probes for frequency estimation on a nuclear magnetic resonance (NMR) processor. The proposed scheme paves the way to experimentally auto-search optimal protocol for improving the metrology precision.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-020-80070-1
+DO  - 10.1038/s41598-020-80070-1
+ID  - Yang2021
+ER  - 
